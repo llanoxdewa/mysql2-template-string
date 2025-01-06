@@ -2,6 +2,12 @@
 
 This project provides a utility for constructing and executing parameterized SQL queries using the `mysql2/promise` package in a TypeScript environment. It includes classes and functions for creating, chaining, and executing SQL queries safely and efficiently.
 
+
+## reference and inspiration come from here
+```
+https://www.npmjs.com/package/sql-template-strings
+```
+
 ## Features
 
 - **MySQL Connection Pool**: Reuses connections for better performance.
